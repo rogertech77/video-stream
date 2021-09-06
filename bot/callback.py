@@ -17,7 +17,7 @@ async def cbguide(_, query: CallbackQuery):
 
 📝 **note: stream & stop command can only be executed by group admin only!**
 
-⚡ __Maintained by Veez Project Team__""",
+⚡ __Maintained by Kid Bots__""",
     reply_markup=InlineKeyboardMarkup(
       [[
         InlineKeyboardButton(
@@ -60,14 +60,14 @@ async def cbinfo(_, query: CallbackQuery):
 
 💡 __Powered by PyTgcalls the Async client API for the Telegram Group Calls, and Pyrogram the telegram MTProto API Client Library and Framework in Pure Python for Users and Bots.__
 
-👨🏻‍💻 __Thanks to the developers who participated in the development of this bot, the list of devs can be seen below:__
+👨🏻‍💻 __Thanks to the developers who participated in the development of this bot:__
 
-👩🏻‍✈️ » [Levina Shavila](https://github.com/levina-lab)
-🤵🏻 » [Sammy-XD](https://github.com/Sammy-XD)
-👩🏻‍✈️ » [Achu Biju](https://github.com/Achu2234)
-🤵🏻 » [Mr.Zxce3](https://github.com/Zxce3)
-🤵🏻 » [Tofik Denianto](https://github.com/tofikdn)
-🤵🏻 » [Shohih Abdul](https://github.com/DoellBarr)
+🍄 » [MAGICAL MUSH](https://t.me/magiclmush)
+😜 » [KID HUB](https://t.me/kidhub)
+👻 » [TG BIO](https://t.me/TgBioz)
+🤓 » [PSY WAL](https://t.me/Psywal)
+🤗 » [KID BOTS](https://t.me/kidbots)
+😈 » [BOT SUPPORT](https://t.me/tzkid)
 
 __This bot licensed under GNU-GPL 3.0 License__""",
     reply_markup=InlineKeyboardMarkup(
@@ -106,7 +106,7 @@ async def cblist(_, query: CallbackQuery):
 » /uptime - check bot uptime status
 » /sysinfo - check bot system information
 
-⚡ __Maintained by Veez Project Team__""",
+⚡ __Maintained by Kib Bots__""",
     reply_markup=InlineKeyboardMarkup(
       [[
         InlineKeyboardButton(
